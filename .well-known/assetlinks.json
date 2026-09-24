@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.monanyekantse_source.twa",
+        "sha256_cert_fingerprints": ["6C:C1:81:BB:E6:D9:B5:73:F5:41:FC:93:EF:A7:20:EA:75:6B:CA:06:6B:D1:F5:E0:D1:B9:CC:FC:A1:5B:4F:BA"]
+      }
+    }]
